@@ -1,0 +1,4 @@
+settings:
+  enabled: true
+  stats-message: "&a[FastGhost] &eProcessed Ghost Hits: &b%hits%"
+  console-startup-message: "&aFastGhost 1.21.1 has been successfully loaded."
