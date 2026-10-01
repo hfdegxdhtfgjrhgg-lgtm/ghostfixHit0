@@ -1,0 +1,17 @@
+name: FastGhost
+version: 1.0-RELEASE
+main: com.fast.ghost.FastGhost
+api-version: '1.21'
+author: FastDevelopment
+description: Advanced plugin to catch, process, and register every single ghost hit.
+
+commands:
+  fastghost:
+    description: Check your processed ghost hits statistics
+    permission: fastghost.use
+    usage: /fastghost
+
+permissions:
+  fastghost.use:
+    description: Allows players to check their ghost hits stats
+    default: true
